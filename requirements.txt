@@ -1,2 +1,2 @@
-python-telegram-bot==13.15
-edge-tts
+python-telegram-bot==20.7
+edge-tts==6.1.10
