@@ -1,3 +1,5 @@
 python-telegram-bot==20.7
 edge-tts
 google-generativeai
+Flask
+requests
